@@ -4,7 +4,7 @@ These are resources for a master teacher workshop about programming drones in Py
 <br />
 <div align="center">
   <a href="https://github.com/othneildrew/Best-README-Template">
-    <img src="images/data-science-v2.gif" alt="Logo" width="300" height="200">
+    <img src="images/giphy.gif" alt="Logo" width="300" height="200">
   </a>
 
   <h3 align="center">Programming in R Workshop</h3>
