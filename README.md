@@ -1,5 +1,20 @@
 # Drone-workshop
 These are resources for a master teacher workshop about programming drones in Python
+<!-- PROJECT LOGO -->
+<br />
+<div align="center">
+  <a href="https://github.com/othneildrew/Best-README-Template">
+    <img src="images/data-science-v2.gif" alt="Logo" width="300" height="200">
+  </a>
+
+  <h3 align="center">Programming in R Workshop</h3>
+
+  <p align="center">
+    This is a great way to learn about programming in R
+   
+  </p>
+</div>
+
 
 
 Here are some Amazing resources
