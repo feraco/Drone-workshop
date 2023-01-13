@@ -3,14 +3,14 @@ These are resources for a master teacher workshop about programming drones in Py
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://github.com/othneildrew/Best-README-Template">
+  <a href="https://github.com/feraco">
     <img src="images/giphy.gif" alt="Logo" width="300" height="200">
   </a>
 
-  <h3 align="center">Programming in R Workshop</h3>
+  <h3 align="center">Programming Drones</h3>
 
   <p align="center">
-    This is a great way to learn about programming in R
+    This is a great way to learn about drones in education
    
   </p>
 </div>
